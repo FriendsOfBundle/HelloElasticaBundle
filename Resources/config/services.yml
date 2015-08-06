@@ -1,0 +1,4 @@
+services:
+#    fob_hello_elastica.example:
+#        class: FOB\HelloElasticaBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

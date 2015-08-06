@@ -1,0 +1,3 @@
+fob_hello_elastica_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: FOBHelloElasticaBundle:Default:index }
